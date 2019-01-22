@@ -3,7 +3,7 @@ package folder_test
 import (
 	"testing"
 
-	"github.com/getantibody/folder"
+	"github.com/getbpt/folder"
 )
 
 var data = []struct {
@@ -13,11 +13,11 @@ var data = []struct {
 		"http://google.com",
 		"http-COLON--SLASH--SLASH-google.com",
 	}, {
-		"git@github.com:getantibody/antibody.git",
-		"git-AT-github.com-COLON-getantibody-SLASH-antibody.git",
+		"git@github.com:getbpt/bpt.git",
+		"git-AT-github.com-COLON-getbpt-SLASH-bpt.git",
 	}, {
-		"https://github.com/getantibody/folder",
-		"https-COLON--SLASH--SLASH-github.com-SLASH-getantibody-SLASH-folder",
+		"https://github.com/getbpt/folder",
+		"https-COLON--SLASH--SLASH-github.com-SLASH-getbpt-SLASH-folder",
 	},
 }
 

@@ -1,6 +1,9 @@
+Copyright for portions of project [folder](https://github.com/getbpt/folder/) are held by [Antibody, 2016] as part of project [getantibody/folder](https://github.com/getantibody/folder/).
+All other copyright for project [folder](https://github.com/getbpt/folder/) are held by [Joel Baranick, 2019].
+
 MIT License
 
-Copyright (c) 2016 Antibody
+Copyright (c) 2019 Joel Baranick
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
